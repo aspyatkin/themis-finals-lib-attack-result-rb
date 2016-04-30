@@ -1,6 +1,6 @@
 name 'themis-finals-lib-attack-result-rb'
 description 'Installs and configures attack-result-rb'
-version '1.0.0'
+version '1.0.1'
 
 recipe 'themis-finals-lib-attack-result-rb', 'Installs and configures attack-result-rb'
 depends 'latest-git', '~> 1.1.6'
